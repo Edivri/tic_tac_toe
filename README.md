@@ -9,9 +9,9 @@
 
   </tr>
   <tr>
-    <td><img src="images/repo1.png" width=270 height=480 ></td>
-    <td><img src="images/repo1.png" width=270 height=480 ></td>
-    <td><img src="images/repo1.png" width=270 height=480 ></td>
+    <td><img src="images/start.png" width=270 height=480 ></td>
+    <td><img src="images/xwin.png" width=270 height=480 ></td>
+    <td><img src="images/endgame.png" width=270 height=480 ></td>
 
 </td>
   </tr>
